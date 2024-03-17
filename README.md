@@ -1,7 +1,3 @@
-Sure, here's a README for your Haskell project:
-
----
-
 # Lambda Calculus Interpreter
 
 This project is a Lambda Calculus Interpreter implemented in Haskell. It allows you to parse Lambda Calculus expressions from strings, evaluate them, and perform various operations on them. The interpreter supports both standard Lambda Calculus expressions as well as Church numerals and predefined encodings.
@@ -60,15 +56,3 @@ Enter a Lambda Calculus expression:
 ```
 
 Enter your expression at the prompt and press Enter. The interpreter will then parse and evaluate the expression, displaying the result.
-
-## Contributing
-
-Contributions to the Lambda Calculus Interpreter project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include more specific instructions or details about your project!
